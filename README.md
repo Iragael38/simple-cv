@@ -19,6 +19,7 @@ This theme was designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwa
 * Want a section (like Coursework) to look different? edit the corresponding file in `_includes\*.html`.
 * Want a new section using an existing one as a template? Copy the existing file in `_includes\*.html` and give it a new name. Make a corresponding yml file in `_data\`.  You can copy an existing one to use as a template.  Then add an `include` to `index.html`.
 * Want a new page that you can link to? Create an html file at the base level. `foo.html`.  You can use `index.html` as a template. Your new page url will be `baseurl\foo.html`.
+* If you want a different favicon, delete the current one `favicon.ico` and upload a new one.
 
 ## More customizing
 If you want to make css changes, then edit the css file.
