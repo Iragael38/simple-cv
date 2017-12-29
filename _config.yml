@@ -13,9 +13,9 @@ baseurl: '/simple-cv' #change it according to your repository name
 style: style-kz
 
 #Profile information
-name: Jane Doe
+name: Ayda Doe
 tagline: Math major at My College
-pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: ayda.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'This is a simple cv website based on Jekyll.'
 
 #sidebar links
