@@ -16,7 +16,7 @@ style: style-kz
 name: Ayda Doe
 tagline: Math major at My College
 pic: ayda.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'This is a simple cv website based on Jekyll.'
+summary: 'This is a simple cv website based on Jekyll. Fork it here <a href="https://github.com/eeholmes/simple-cv">https://github.com/eeholmes/simple-cv</a>.'
 
 #sidebar links
 email: myemail@gmail.com
