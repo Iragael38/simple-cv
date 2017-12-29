@@ -3,7 +3,7 @@ This theme was designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwa
 ## Installation
 * Fork the repository
 * Go to settings of your repository and set Github Pages source as master.
-* Your new site should be ready at https://username.github.io/online-cv/
+* Your new site should be ready at https://username.github.io/simple-cv/
 * If you change the name of your repository, change the baseurl in `_config.yml`
 
 ## Enter your data
