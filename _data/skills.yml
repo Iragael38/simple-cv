@@ -2,32 +2,8 @@
   name: English
   level: Native
 - skill:
-  name: Russian
-  level: 2nd yr college
-- skill:
-  name: Chinese
-  level: 2 yrs high school
-- skill:
   name: Python
   level: Novice
 - skill:
-  name: Mathematica
-  level: Intermediate; use in classwork
-- skill:
-  name: ArtRage, Clip Studio Paint
-  level: 4 yrs experience as avid digital artist
-- skill:
-  name: Excel
-  level: Use extensively in class work
-- skill:
-  name: Photoshop
-  level: Basic image editing
-- skill:
   name: First Aid
-  level: Basic First Aid, CPR, Wilderness First Aid
-- skill:
-  name: Cross-country skiing
-  level: Level-I PSIA certified ski instructor
-- skill:
-  name: Wilderness canoeing
-  level: Yukon River-Yukon Territory, Noatak River-Alaska, Athabasca River-Alberta, Stikine River-Alaska, and others
+  level: Basic First Aid, CPR
