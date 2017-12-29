@@ -1,7 +1,7 @@
 # Site Settings
-title: Karina Zikan
+title: Jane Doe
 url: ''
-baseurl: '/cv' #change it according to your repository name
+baseurl: '/simple-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -13,24 +13,22 @@ baseurl: '/cv' #change it according to your repository name
 style: style-kz
 
 #Profile information
-name: Karina Zikan
-tagline: Math/Physics St Olaf College
-pic: karina.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am a Math and Physics double major at St Olaf College in Minnesota.  I love mathematics and puzzles.
-I enjoy teaching also and have worked as a teacher or instructor at summer schools, theater programs, and skiing programs.
-In my free time, I enjoy art, photography and travel.'
+name: Jane Doe
+tagline: Math major at My College
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'This is a simple cv website based on Jekyll.'
 
 #sidebar links
-email: karina.zikan@gmail.com
-phone: 206 605 8468
-website: kzikan.github.io/cv/ #do not add http://
+email: myemail@gmail.com
+phone: 206 123 4567
+website: eeholmes.github.io/simple-cv/ #do not add http://
 linkedin: 
-github: kzikan
+github: eeholmes
 twitter: 
 #Update all the sections by editing the files inside _data folder.
 
-# Tracker
-analytics: UA-83979019-1
+# Tracker add google id like UA-xxx here
+#analytics: 
 
 # Build settings
 encoding: "utf-8"
