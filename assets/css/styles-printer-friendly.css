@@ -74,6 +74,15 @@ p {
   text-align: center;
   color: #fff;
   float: left;
+  width: 200px;
+}
+.sidebar-wrapper .contact-container {
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  color: #fff;
+  float: left;
+  width: 200px;
 }
 .sidebar-wrapper .name {
   font-size: 32px;
