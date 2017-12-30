@@ -78,7 +78,6 @@ p {
 }
 .sidebar-wrapper .contact-container {
   padding: 30px;
-  background: rgba(0, 0, 0, 0.2);
   text-align: center;
   color: #fff;
   float: left;
@@ -177,8 +176,7 @@ p {
   font-size: 14px;
   font-weight: 500;
   color: #2d7788;
-  position: relative;
-  margin-top: 0;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 .main-wrapper .section-title .fa {
