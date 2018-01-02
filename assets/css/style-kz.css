@@ -358,11 +358,15 @@ ul, ol, dl {
   page-break-before:avoid
 }
 
-body, article {
+body {
   width: 100%;
   margin: 0;
   padding: 0;
 }
+.main-wrapper {
+  padding: 10px;
+}
+
 .main-wrapper .section-title {
   font-size: 14px;
   margin-top: 0;
@@ -390,5 +394,7 @@ body, article {
   line-height: 1;
   margin-bottom: 10px;
 }
-
+@page {
+  margin: 2cm;
+  }
 }
