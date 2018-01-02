@@ -50,7 +50,7 @@ remove links from printing
 */
 @media print {
   a[href]:after {
-    visibility: hidden;
+    content: "";
   }
 }
 p {
