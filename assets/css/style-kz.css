@@ -390,8 +390,5 @@ body, article {
   line-height: 1;
   margin-bottom: 10px;
 }
-div.sidebar-wrapper {
-  position: fixed;
-  top: 0;
-}
+
 }
