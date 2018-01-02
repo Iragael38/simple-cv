@@ -63,6 +63,7 @@ p {
   width: 100%;
   height: auto;
   color: #fff;
+  display: inline-block;
 }
 .sidebar-wrapper a {
   color: #fff;
