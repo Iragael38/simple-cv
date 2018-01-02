@@ -337,6 +337,8 @@ printing css
   .sidebar-wrapper {
     border-left: 2px solid gray;
     float: right;
+  position: relative;
+  height: 800px;
   }
   ul {
   page-break-inside: avoid;
