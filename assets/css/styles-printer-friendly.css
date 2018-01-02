@@ -76,10 +76,10 @@ p {
 }
 .sidebar-wrapper .contact-container {
   padding: 30px;
-  text-align: center;
+  text-align: left;
   color: #fff;
   float: left;
-  width: 200px;
+  width: 250px;
   margin-right: 20px;
 }
 .sidebar-wrapper .name {
@@ -126,6 +126,14 @@ p {
   font-size: 12px;
   margin-top: 0;
   margin-bottom: 5px;
+}
+.sidebar-wrapper .educaton-container {
+  padding: 30px;
+  text-align: left;
+  color: #fff;
+  float: left;
+  width: 250px;
+  margin-right: 20px;
 }
 .sidebar-wrapper .education-container .item {
   margin-bottom: 15px;
