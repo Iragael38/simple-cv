@@ -331,10 +331,36 @@ printing css
   a[href]:after {
     content: "";
   }
-  footer, github, twitter {
+  .footer {
   display: none;
   }
-  sidebar-wrapper {
+  .sidebar-wrapper {
     border-left: 5px solid blue;
   }
+  ul {
+  page-break-inside: avoid;
+  }
+  h1, h2, h3, h4, h5, h6 {
+  page-break-after:avoid;
+  page-break-inside:avoid
+}
+ 
+img {
+  page-break-inside:avoid;
+  page-break-after:avoid;
+}
+ 
+blockquote, table, pre {
+  page-break-inside:avoid
+} 
+ 
+ul, ol, dl {
+  page-break-before:avoid
+}
+
+body, article {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
 }
