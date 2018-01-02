@@ -365,6 +365,8 @@ body {
 }
 .main-wrapper {
   padding: 10px;
+  padding-top: 0px;
+  padding-right: 300px;
 }
 
 .main-wrapper .section-title {
