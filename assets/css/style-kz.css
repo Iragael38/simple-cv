@@ -388,9 +388,9 @@ body, article {
 }
 .main-wrapper .experiences-section p {
   line-height: 1;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
-.sidebar-wrapper {
+div.sidebar-wrapper {
   position: fixed;
   top: 0;
 }
