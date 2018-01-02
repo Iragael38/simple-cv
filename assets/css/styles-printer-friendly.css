@@ -213,7 +213,7 @@ p {
   margin-bottom: 20px;
 }
 .main-wrapper .experiences-section .item {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .main-wrapper .upper-row {
   position: relative;
@@ -247,7 +247,7 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .main-wrapper .skill-title {
   font-size: 14px;
@@ -260,23 +260,6 @@ p {
 }
 .main-wrapper .skills-section .item {
   margin-bottom: 10px;
-}
-.skillset .item {
-  margin-bottom: 15px;
-  overflow: hidden;
-}
-.skillset .level-title {
-  font-size: 14px;
-  margin-top: 0;
-  margin-bottom: 12px;
-}
-.skillset .level-bar {
-  height: 12px;
-  background: #f5f5f5;
-}
-.skillset .level-bar-inner {
-  height: 12px;
-  background: #7bc2d3;
 }
 .footer {
   padding: 30px;
