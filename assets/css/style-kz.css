@@ -368,7 +368,19 @@ body, article {
   margin-top: 0;
   margin-bottom: 10px;
 }
+.main-wrapper .project-title {
+  font-size: 14px;
+}
+.main-wrapper .job-title {
+  font-size: 14px;
+}
 .main-wrapper .section {
   margin-bottom: 20px;
+}
+.main-wrapper .projects-section .item {
+  margin-bottom: 10px;
+}
+.main-wrapper .experiences-section .item {
+  margin-bottom: 10px;
 }
 }
