@@ -77,7 +77,7 @@ p {
   display: -ms-flexbox;      /* TWEENER - IE 10 */
   display: -webkit-flex;     /* NEW - Chrome */
   display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
-  -webkit-print-color-adjust: exact;
+  border-bottom: 5px solid blue;  
 }
 .sidebar-wrapper a {
   color: #fff;
@@ -89,7 +89,6 @@ p {
   color: #fff;
   float: left;
   width: 200px;
-  -webkit-print-color-adjust: exact;
 }
 .sidebar-wrapper .contact-container {
   padding: 30px;
