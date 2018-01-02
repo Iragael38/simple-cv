@@ -16,6 +16,7 @@ body {
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-print-color-adjust: exact !important;
 }
 @media (max-width: 767px) {
     body{ 
