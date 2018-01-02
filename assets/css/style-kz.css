@@ -335,7 +335,7 @@ printing css
   display: none;
   }
   .sidebar-wrapper {
-    border-left: 2px grey;
+    border-left: 2px solid gray;
   }
   ul {
   page-break-inside: avoid;
@@ -383,8 +383,12 @@ body, article {
 .main-wrapper .experiences-section .item {
   margin-bottom: 10px;
 }
+.main-wrapper .company {
+  margin-bottom: 2px;
+}
 .main-wrapper .experiences-section p {
   line-height: 1;
+  margin-bottom: 5px;
 }
 .sidebar-wrapper {
   position: fixed;
