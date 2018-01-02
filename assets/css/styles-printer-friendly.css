@@ -89,6 +89,7 @@ p {
   color: #fff;
   float: left;
   width: 200px;
+  -webkit-print-color-adjust: exact;
 }
 .sidebar-wrapper .contact-container {
   padding: 30px;
