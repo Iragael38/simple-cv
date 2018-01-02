@@ -339,6 +339,7 @@ printing css
     float: right;
   position: relative;
   height: 800px;
+  display:block;
   }
   ul {
   page-break-inside: avoid;
