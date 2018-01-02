@@ -175,8 +175,9 @@ p {
 }
 .main-wrapper {
   background: #fff;
-  padding: 60px;
-  padding-right: 300px;
+  padding: 30px;
+  padding-right: 30px;
+  padding-top: 0px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
