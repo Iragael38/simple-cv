@@ -1,4 +1,4 @@
-This theme was designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/).  [Webjeda](http://webjeda.com) made this into a Jekyll Theme: [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/).  Visit their website for more Jekyll themes and for custom website design. [EEH](https://eeholmes.github.io/) modified Webjeda's design to make it more suitable for a college resume.
+This theme was designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/).  [Webjeda](http://webjeda.com) made this into a Jekyll Theme: [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/).  Visit their website for more Jekyll themes and for custom website design. [EEH](https://eeholmes.github.io/) modified Webjeda's design to make it more suitable for a simple flat resume.
 
 ## Installation
 * Fork the repository
