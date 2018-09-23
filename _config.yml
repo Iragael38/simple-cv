@@ -16,7 +16,7 @@ style: style-kz
 name: Ayda Doe
 tagline: Math major at My College
 pic: ayda.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'This is a simple cv website based on Jekyll. Fork it here <a href="https://github.com/eeholmes/simple-cv">https://github.com/eeholmes/simple-cv</a>. 
+summary: 'This is a simple cv website based on Jekyll. Fork it here <a href="https://github.com/RVerse-Tutorials/simple-cv">https://github.com/RVerse-Tutorials/simple-cv</a>. 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, 
 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
 and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'
