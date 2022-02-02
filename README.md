@@ -29,3 +29,7 @@ If you want to make css changes, then edit the css file.
 * Look at the other style files in `assets\css\` for ideas however note that `style-kz.css` has been changed from the original.  New classes: skills-section, skill-title, item in skills-section.  project-title changed to be bold.
 
 You can find more themes at [**Jekyll Themes**](http://jekyll-themes.com)
+
+## Reuse statement
+
+Reuse and adapt as you wish. No attribution needed or expected.
