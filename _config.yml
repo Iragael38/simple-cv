@@ -1,6 +1,6 @@
 # Site Settings
 title: Jane Doe
-url: ''
+url: https://iragael38.github.io
 baseurl: '/simple-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
